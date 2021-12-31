@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cf-clark-sales/static/css/main.073c9b0a.css",
-    "main.js": "/cf-clark-sales/static/js/main.ce9541a7.js",
+    "main.js": "/cf-clark-sales/static/js/main.9b8a5cae.js",
     "static/js/787.31d3d250.chunk.js": "/cf-clark-sales/static/js/787.31d3d250.chunk.js",
     "index.html": "/cf-clark-sales/index.html",
     "main.073c9b0a.css.map": "/cf-clark-sales/static/css/main.073c9b0a.css.map",
-    "main.ce9541a7.js.map": "/cf-clark-sales/static/js/main.ce9541a7.js.map",
+    "main.9b8a5cae.js.map": "/cf-clark-sales/static/js/main.9b8a5cae.js.map",
     "787.31d3d250.chunk.js.map": "/cf-clark-sales/static/js/787.31d3d250.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ce9541a7.js"
+    "static/js/main.9b8a5cae.js"
   ]
 }
